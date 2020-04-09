@@ -1,0 +1,7 @@
+TeacherD       
+                9   10  11  12  1   2   3   4   
+MONDAY          B   O   B   O   O   B   B   O
+TUESDAY         O   B   O   O   B   B   O   O                      
+WEDNESDAY       O   B   O   O   B   O   O   B
+THRUSDAY        B   O   B   B   O   O   B   O
+FRIDAY          O   O   B   O   O   B   O   B 

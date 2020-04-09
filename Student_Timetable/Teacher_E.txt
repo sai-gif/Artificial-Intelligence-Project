@@ -1,0 +1,13 @@
+
+
+                                                                            K18RD TIME-TABLE
+                                                                                                                                                
+                             DAYS         9-10       10-11       11-12        12-1        1-2         2-3         3-4         4-5     
+                                                                                                                                                
+                            MONDAY       Break       Other       Other       Other       Other       Break       Break       Other    
+                            TUESDAY      Other       Other       Other       Break     Teacher_E     Other       Other     Teacher_E  
+                           WEDNESDAY     Other       Other       Other     Teacher_E     Other       Break       Other       Break    
+                           THRUSDAY      Other       Other       Other     Teacher_E     Other       Break       Other       Break    
+                            FRIDAY       Break       Other       Other       Break       Other       Other     Teacher_E   Teacher_E  
+
+                            

@@ -1,0 +1,7 @@
+TeacherC        
+                9   10  11  12  1   2   3   4   
+MONDAY          B   O   B   O   O   B   B   O 
+TUESDAY         O   O   B   O   O   B   O   B                    
+WEDNESDAY       B   O   B   B   O   O   B   O
+THRUSDAY        O   B   O   O   B   O   O   B
+FRIDAY          O   B   O   O   B   B   O   O 

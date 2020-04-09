@@ -1,0 +1,4 @@
+After downloading the following project make sure to change the file path.
+Don't change any filename
+run Main.py like > python3 Main.py
+Above code will give error for any other python version less than 3.
